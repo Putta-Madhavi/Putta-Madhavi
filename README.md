@@ -1,17 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22719
-Fork on GitHub
-7548
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
+<!-- Profile Banner -->
+<img src="" width="100%" />
 
 preview
 <h1 align="center">Hi 👋, I'm Putta Madhavi</h1>
