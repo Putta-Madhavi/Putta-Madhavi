@@ -13,11 +13,24 @@
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/putta-madhavi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/putta-madhavi/" height="30" width="40" /></a>
-</p>
+<!-- Wrapper for horizontal layout -->
+<!-- Wrapper for horizontal layout -->
+<!-- Wrapper for inline layout -->
+<div style="width: 100%;">
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- Wrapper for inline layout -->
+
+<div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+     <img src="https://drive.google.com/uc?export=view&id=1_LxPAWL9Q77DaRoKV0LG7-MRBpb4fOfd"
+       alt="Madhavi Girl Illustration" width="250px" />
+  </a>
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
