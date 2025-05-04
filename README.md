@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Putta Madhavi</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=putta-madhavi&label=Profile%20views&color=0e75b6&style=flat" alt="putta-madhavi" /> </p>
+
 
 - 💬 Ask me about **Frontend and Backend**
 
@@ -25,10 +27,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-     <img src="https://drive.google.com/uc?export=view&id=1_LxPAWL9Q77DaRoKV0LG7-MRBpb4fOfd"
-       alt="Madhavi Girl Illustration" width="250px" />
-  </a>
+
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
