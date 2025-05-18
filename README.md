@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Putta Madhavi</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-
+<img src="https://github.com/Putta-Madhavi/Putta-Madhavi/blob/main/BACKGROUNDIMAGE.png?raw=true" width="1000px" height="270px" />
 
 - 💬 Ask me about **Frontend and Backend**
 
