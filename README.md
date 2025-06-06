@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **madhaviputta44@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12IFSPyPX4ldzw-NuJyzhjyy7ifpUPjwt/view?usp=sharing](https://drive.google.com/file/d/12IFSPyPX4ldzw-NuJyzhjyy7ifpUPjwt/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1E4TPxhqijxbeMudq_h6t6ndxVKyFNCe8/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
