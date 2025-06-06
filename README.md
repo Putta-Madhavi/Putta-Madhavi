@@ -26,6 +26,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn" width="40" height="40" />
   </a>
+    <!-- LeetCode -->
+  <a href="https://leetcode.com/your-leetcode-username" target="_blank" rel="noreferrer" title="LeetCode Profile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="border-radius:5px;" />
+  </a>
 
 </div>
 
