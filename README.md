@@ -14,22 +14,18 @@
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<!-- Wrapper for horizontal layout -->
-<!-- Wrapper for horizontal layout -->
-<!-- Wrapper for inline layout -->
-<div style="width: 100%;">
-
-<!-- Wrapper for inline layout -->
-
-<div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn" width="40" height="40" />
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noreferrer" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-    <!-- LeetCode -->
-  <a href="https://leetcode.com/u/madhaviputta/" target="_blank" rel="noreferrer" title="LeetCode Profile">
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/your-leetcode-username" target="_blank" rel="noreferrer" title="LeetCode Profile" style="display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="border-radius:5px;" />
   </a>
+
+
 
 </div>
 
