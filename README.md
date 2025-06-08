@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Putta-Madhavi/Putta-Madhavi/blob/main/BACKGROUNDIMAGE.png?raw=true" alt="My Laptop Setup" width="100%" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Putta Madhavi</h1>
