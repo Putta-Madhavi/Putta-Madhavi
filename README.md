@@ -15,6 +15,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1E4TPxhqijxbeMudq_h6t6ndxVKyFNCe8/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=putta-madhavi&label=Profile%20views&color=0e75b6&style=flat" alt="putta-madhavi" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <!-- Wrapper for horizontal layout -->
