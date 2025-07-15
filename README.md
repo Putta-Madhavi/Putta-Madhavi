@@ -2,19 +2,20 @@
   <img src="https://github.com/Putta-Madhavi/Putta-Madhavi/blob/main/BACKGROUNDIMAGE.png?raw=true" alt="My Laptop Setup" width="100%" />
 </p>
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Putta Madhavi
+=====================================================================================================================================
 
-<h1 align="center">Hi 👋, I'm Putta Madhavi</h1>
-<h3 align="center">A passionate Java Full Stack Developer</h3>
+Java Full Stack Developer
+-------------------------
 
+Enthusiastic and detail-oriented MCA graduate with a strong foundation in Java Full Stack Development.Proficient in Java, Spring Boot, React.js, MySQL and DSA with hands-on experience in building scalable applications. Passionate about problem solving and continuously learning modern technologies.
 
-
-- 💬 Ask me about **Frontend and Backend**
-
-- 📫 How to reach me **madhaviputta44@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JvZK-fphiRxwW27qwXpftyme1SFpovCE/view?usp=sharing)
-
-- ⚡ Fun fact **I am funny**
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [My-Portfolio](http://https://putta-madhavi.github.io/My-Portfolio/)
+* ✉️  You can contact me at [madhaviputta44@gmail.com](mailto:madhaviputta44@gmail.com)
+* 🧠  I'm learning Data Structures & Algorithms — actively practicing on LeetCode: https://leetcode.com/u/madhaviputta/
+* 🤝  I'm open to collaborating on - Web development projects (Frontend & Backend) - Java Full Stack Development - Open-source contributions - DSA problem-solving discussions
+* ⚡  - Passionate about building real-world projects and improving every day.
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=putta-madhavi&label=Profile%20views&color=0e75b6&style=flat" alt="putta-madhavi" />
 </p>
