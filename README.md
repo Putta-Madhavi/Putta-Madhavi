@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My-Portfolio](http://https://putta-madhavi.github.io/My-Portfolio/)
-* ✉️  You can contact me at [madhaviputta44@gmail.com](mailto:madhaviputta44@gmail.com]
+* ✉️  You can contact me at [madhaviputta44@gmail.com]
 * 📄 Know about my experiences [https://drive.google.com/file/d/1JvZK-fphiRxwW27qwXpftyme1SFpovCE/view?usp=sharing]
 * 🧠  I'm learning Data Structures & Algorithms — actively practicing on LeetCode: https://leetcode.com/u/madhaviputta/
 * 🤝  I'm open to collaborating on - Web development projects (Frontend & Backend) - Java Full Stack Development - Open-source contributions - DSA problem-solving discussions
