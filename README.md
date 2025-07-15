@@ -4,17 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Full Stack Developer
 -------------------------
 
-Enthusiastic and detail-oriented MCA graduate with a strong foundation in Java Full Stack Development.Proficient in Java, Spring Boot, React.js, MySQL and DSA with hands-on experience in building scalable applications. Passionate about problem solving and continuously learning modern technologies.
-
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My-Portfolio](http://https://putta-madhavi.github.io/My-Portfolio/)
-* ✉️  You can contact me at [madhaviputta44@gmail.com](mailto:madhaviputta44@gmail.com)
+* ✉️  You can contact me at [madhaviputta44@gmail.com](mailto:madhaviputta44@gmail.com]
+* 📄 Know about my experiences [https://drive.google.com/file/d/1JvZK-fphiRxwW27qwXpftyme1SFpovCE/view?usp=sharing]
 * 🧠  I'm learning Data Structures & Algorithms — actively practicing on LeetCode: https://leetcode.com/u/madhaviputta/
 * 🤝  I'm open to collaborating on - Web development projects (Frontend & Backend) - Java Full Stack Development - Open-source contributions - DSA problem-solving discussions
 * ⚡  - Passionate about building real-world projects and improving every day.
 
-<a href="https://www.github.com/Putta-Madhavi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Putta-Madhavi?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=putta-madhavi&label=Profile%20views&color=0e75b6&style=flat" alt="putta-madhavi" />
+</p>
+
 
 ### Skills
 
@@ -24,9 +25,33 @@ src="https://img.shields.io/github/followers/Putta-Madhavi?logo=github&style=for
 </p>
 
 
-### Socials
+### Connect With me
 
-<p align="left"> <a href="https://www.github.com/Putta-Madhavi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/putta-madhavi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="left">
+  <!-- GitHub -->
+  <a href="https://www.github.com/Putta-Madhavi" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
+    </picture>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/putta-madhavi" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+    </picture>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/madhaviputta/" target="_blank" rel="noreferrer" title="LeetCode Profile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="32" height="32" style="border-radius:5px;" />
+  </a>
+</p>
+
 
 ### Badges
 
