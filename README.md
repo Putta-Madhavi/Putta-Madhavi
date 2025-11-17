@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 <p align="center">
-  <img src="https://github.com/Putta-Madhavi/Putta-Madhavi/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png" alt="My Laptop Setup" width="100%" />
+
 </p>
 
 
